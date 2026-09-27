@@ -1,0 +1,5 @@
+# Modern Delhi background
+
+Created with the built-in image generation tool, no user API key. Asset: `docs/delhi.png`.
+
+Prompt: Landscape background illustration for an interactive Hindi-learning game map, roughly 3:2. A warm, sophisticated illustrated miniature of modern New Delhi with an elevated three-quarter bird's-eye view. Curving roads link a chai kiosk, colorful street market, modern hotel entrance, cafe, glass-and-stone offices, taxi pickup and leafy plaza. Delhi identity: silver metro train on a concrete viaduct, Connaught Place-inspired cream colonnaded shops, India Gate as a modest distant landmark, green-and-yellow auto-rickshaws, buses and modern cars, marigolds, textiles, produce stalls and broad trees. People wear contemporary everyday clothing, kurtas and saris. Saffron, teal, cream and green, warm late-afternoon light, cheerful hand-painted 3D game illustration. Spaced destinations leave room for UI pins. No fantasy palaces, castle maze, medieval architecture or Taj Mahal. No UI, numbers, map markers, labels or watermark. Fictional composite inspired by today's Delhi, not a geographic map.
